@@ -1,5 +1,3 @@
-# Dobbelsteen uit de aardatmosfeer.
-
 import re
 import sys
 
